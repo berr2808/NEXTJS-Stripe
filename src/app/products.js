@@ -25,7 +25,7 @@ export const products = [
     },
     {
         id: 5,
-        name: 'Product 5',
+        name: 'Test 5',
         price: 5000,
         image: 'https://via.placeholder.com/150'
     },
